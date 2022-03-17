@@ -1,0 +1,48 @@
+/* .header-left {
+    position: absolute;
+    width: 160px;
+    background-color: black;
+}
+*/
+
+.header-left-ul {
+    margin: 0;
+    padding: 0;
+}
+
+.header-left-li {
+    list-style: none;
+}
+
+.header-left-li:hover {
+    background-color: darkgray;
+}
+
+.img-right {
+    display: flex;
+    justify-content: center;
+}
+
+.header-body {
+    background-color: darkgray;
+}
+
+.text-bottom {
+    font-size: small;
+}
+
+
+/* 
+.header-right {
+    position: absolute;
+    left: 169px;
+    width: 100%;
+}
+
+.header-right-top {
+    text-align: center;
+}
+
+.header-body {
+    background-color: darkgray;
+} */

@@ -15,7 +15,7 @@
 }
 
 .header-left-li:hover {
-    background-color: darkgray;
+    background-color: light;
 }
 
 .img-right {
@@ -24,7 +24,7 @@
 }
 
 .header-body {
-    background-color: darkgray;
+    background-color: #F5F5F5;
 }
 
 .text-bottom {
